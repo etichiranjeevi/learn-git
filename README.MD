@@ -4,6 +4,7 @@
 ### rebase
 *Rebase  is another merge strategy
 * developing still
+* Development is completed
 
 
 
