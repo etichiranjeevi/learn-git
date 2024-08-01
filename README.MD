@@ -3,7 +3,7 @@
 *Developer is adding some more work on feature-1
 ### rebase
 *Rebase  is another merge strategy
-
+* developing still
 
 
 
